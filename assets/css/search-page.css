@@ -1,0 +1,40 @@
+h2.search-title-pass{
+	margin-bottom: 25px;
+}
+
+div.card{
+
+	margin-bottom: 25px;
+}
+
+a.card-title{
+	color: #000;
+}
+
+p.card-text{
+	color: #000;
+}
+
+p.time-text{
+	color: #000000;
+}
+
+h4.card-title{
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+div.h-200{
+	height: 200px;
+}
+
+img.img-search-page{
+	width: 100%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+div.pagging{
+	
+}

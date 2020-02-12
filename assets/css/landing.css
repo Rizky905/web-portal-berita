@@ -1,0 +1,158 @@
+h6.title{
+  text-align: center;
+}
+
+.social-network-widget .social-list li a{
+	border-left: none !important;
+}
+
+div.single-berita-terkini-box{
+	display: inline-grid;
+}
+@media only screen and (max-width: 765px){
+  div.single-berita-terkini-box{
+      display: none;
+  } 
+}
+
+div.image-terkini{
+	margin-bottom: 10px;
+}
+
+
+div.title-text-article{
+	margin-bottom: 5px;
+}
+
+a.title-terkini{
+	color: #000;
+	font-size: 16px;
+}
+
+p.sum-terkini{
+	color: #000;
+}
+
+img.img-landing-page{
+  width: 100%;
+  height: 500px;
+  object-fit: fill;
+  margin-bottom: 25px;
+}
+@media only screen and (max-width: 765px){
+  img.img-landing-page{
+      height: 150pt;
+      width: 260pt;
+  }
+}
+
+p.article-body{
+  color: #000;
+}
+
+div.single-content-title{
+    margin-bottom: 10px;
+}
+
+h6.title{
+    border-bottom: 2px solid #d01f27;
+    border-left: 20px solid #d01f27;
+    padding: 8px;
+    font-size: 150%;
+    font-weight: bold;
+    text-align: left;
+}
+
+div.single-post-wrap{
+    padding: 0;
+}
+
+
+div.main-content-area{
+  background: #fff;
+  padding: 20px;
+}
+
+div.sidebar-item{
+  position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+div.make-sticky{
+  position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    
+  padding: 0 15px;
+}
+
+p.tag-title{
+  float: left;
+  font-size: 16px;
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+div.single-sidebar-widget .title{
+  background: #fff;
+  color: #000;
+}
+
+div.col-lg-8{
+  padding-right: 0px;
+}
+
+div.tag-area{
+  display: inline-block;
+}
+
+div.berita-rekomendasi .container{
+  padding-left: 0px;
+}
+
+h5.box-tag{
+  float: left;
+  padding-right: 5px;
+  padding-bottom: 3px;
+}
+
+a.member-tag{
+  padding: 3px 9px;
+  background-color: rgb(170, 170, 170);
+  color: #000;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+div.berita-terkini-area{
+  background-color: #fff;
+}
+
+div.berita-terkini-area .main-content-area{
+  margin-top: 8px;
+}
+
+div.berita-terkini-box{
+  margin-bottom: 10px;
+}
+span.berita-terkini-title{
+  border-bottom: 3px solid #d01f27;
+  font-size: 22px;
+  font-weight: 800;
+  font-style: italic;
+  color: #000;
+}
+@media only screen and (max-width: 765px){
+  span.berita-terkini-title{
+      display: none;
+  } 
+
+}
+
+.imgcategory-landing{
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,42 @@
+div.single-sidebar-widget{
+	margin-bottom: 25px;
+}
+
+img.img-category-page{
+	width: 100%;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+img.img-popular-category-page{
+	width: 100%;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+@media only screen and (max-width: 765px){
+  img.img-popular-category-page{
+    height: 100pt;
+    width: 220pt;
+  } 
+}
+
+div.thumb{
+	margin-right: 15px;
+}
+
+div.sticky-sidebar{
+  position: sticky;
+  top: 70px;
+  z-index: 995;
+  padding: 0px;
+}
+
+div.details{
+  padding: 10px 0px 10px 0px;
+}
+
+span.created-date{
+  color: #000;
+}

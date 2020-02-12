@@ -1,0 +1,17 @@
+footer.footer-area-top{
+	padding: 25px 0px 25px 0px !important;
+	margin-top: 25px;
+}
+
+div.footer-area-bottom{
+	margin-top: 0px !important;
+}
+
+img.img-footer{
+	padding: 0px 0px 34px 0px;;
+	width: 150px;
+}
+
+a.location{
+	color: #507777;
+}
