@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CodeIgniter 3 Bootstrap
 
 **Latest Build: 2017-03-24**
@@ -139,27 +140,12 @@ system/                         --- CodeIgniter core files (unchanged as clean C
 .htaccess                       --- URL rewrite for Apache web server (require mod enabled)
 ```
 
-
-### Preset Gulp Tasks
-
-The gulpfile.js folder is prepared with following tasks available:
-
-* **default**: run **build** task first, then **watch** for file change
-* **build**: run **imagemin**, **cssmin** and **uglify** tasks in parallel
-* **rebuild**: run **clean** task first, then **copy**, **imagemin**, **cssmin** and **uglify** tasks in parallel
-* **clean**: remove all files inside the dist folder (default: /assets/dist)
-* **copy**: copy required files to dist folder
-* **cssmin**: concat and minify CSS files
-* **imagemin**: optimize images (jpg, png, gif, svg) and output to dist folder (default: /assets/dist/images)
-* **uglify**: concat and minify (uglify) JS files
-* **watch**: monitor JS / CSS / image files and execute specific tasks upon changes
-
-
 ### Screenshots
 
 Frontend - Home: 
 
-![](screenshots/frontend_home.png "Frontend Home")
+![](screenshots/halaman_depan.png "Frontend Home")
+![](screenshots/halaman_depan1.png "Frontend Home")
 
 Admin Panel - Home: 
 
@@ -168,10 +154,11 @@ Admin Panel - Home:
 More screenshots can be viewed from the [screenshots folder](https://github.com/waifung0207/ci_bootstrap_3/blob/master/screenshots/) under this repository.
 
 
-### TODO
+### TEAM WEB DEVELOPER
+- RIZKY ERLANGGA  
+- SONY SETIAWAN
+- RAHMAT DENY WIJAYANTO
 
-* Changelog file
-* Better documentation (e.g. on [Gitbook](http://gitbook.com/))
-* Enhance Form Builder library to support more field types
-* Grocery CRUD / Image CRUD file upload - add Amazon S3 integration
-* Grocery CRUD / Image CRUD image upload - add cropping feature
+=======
+# web-portal-berita
+>>>>>>> 9c46a79930ffcf96be775d4d46d9791de41bc94b
