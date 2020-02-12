@@ -74,8 +74,7 @@ There are 4 preset users for Admin Panel:
 
 * Webmaster (default username & password are both "webmaster", belongs to the webmaster group)
 * Admin (default username & password are both "admin", belongs to the admin group)
-* Manager (default username & password are both "manager", belongs to the manager group)
-* Staff (default username & password are both "staff", belongs to the staff group)
+
 
 
 ### Folder Structure
@@ -149,7 +148,7 @@ Frontend - Home:
 
 Admin Panel - Home: 
 
-![](screenshots/admin_home.png "Admin Panel Home")
+![](screenshots/admin.png "Admin Panel Home")
 
 More screenshots can be viewed from the [screenshots folder](https://github.com/waifung0207/ci_bootstrap_3/blob/master/screenshots/) under this repository.
 
@@ -157,7 +156,7 @@ More screenshots can be viewed from the [screenshots folder](https://github.com/
 ### TEAM WEB DEVELOPER
 - RIZKY ERLANGGA  
 - SONY SETIAWAN
-- RAHMAT DENY WIJAYANTO
+- RAHMAT DENI WIJAYANTO
 
 =======
 # web-portal-berita
